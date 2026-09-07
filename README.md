@@ -2,6 +2,9 @@
 
 An Excel dashboard for tracking container dwell time, demurrage exposure, and operational risk across terminals and customers.
 
+**Data Note:** 
+All container IDs, customer names, vessels, and terminals in this dataset are synthetic/dummy data generated for demonstration purposes only — no real shipment, customer, or company data is used.
+
 ## Overview
 
 This workbook ingests raw container movement data (discharge date, free time, gate-out date) and turns it into:
